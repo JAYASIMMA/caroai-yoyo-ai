@@ -1,0 +1,27 @@
+Salesperson: Good afternoon, sir. How can I assist you today?
+Customer: Good afternoon. I'm looking for a car within a budget of Rs. 600,000. My primary concerns are safety and proper maintenance. I don't have any specific preference for the vehicle size or type.
+Salesperson: Understood, sir. We have a variety of options that might suit your needs. Are you looking for an automatic or manual transmission?
+Customer: I don't have a preference for that either. Just show me what fits my budget and requirements.
+Salesperson: Certainly, sir. We ensure that all our vehicles undergo a thorough 200-point inspection to guarantee they are non-accidental, non-meter tampered, and have a complete service history. This way, you can be assured of the vehicle's condition.
+Customer: That's good to know. What kind of warranty do you offer after purchase?
+Salesperson: Once you purchase a vehicle, you will have a one-year or 15,000 kilometers warranty on the engine and gearbox. Additionally, for three months or 5,000 kilometers, we cover the AC, electrical, and fuel systems. We also offer a five-day money-back guarantee if you are not satisfied with the vehicle.
+Customer: That sounds reassuring. So, what options do you have in my budget?
+Salesperson: Let me show you a few options. We have both budget and assured categories. The budget vehicles might have higher mileage and more owners, while the assured ones are well-maintained and in showroom condition. 
+Customer: I see. Can you show me a sedan? I prefer something at least the size of a Fabia.
+Salesperson: Absolutely, sir. Here is a 2015 Honda City. It's a well-maintained sedan with 1,20,000 kilometers on it. 
+Customer: How much is it?
+Salesperson: This one is priced at Rs. 6,97,000. However, I must mention that it has a few minor scratches and the paint job isn't perfect. But mechanically, it's in excellent condition.
+Customer: Hmm, the scratches and paint job are a bit concerning. Do you have anything else?
+Salesperson: We also have a 2014 Maruti Suzuki Ciaz. It's slightly older but has fewer kilometers on it. The paint and exterior are in better condition compared to the Honda City.
+Customer: What about the engine and overall maintenance?
+Salesperson: Both vehicles have been thoroughly inspected and are in good mechanical condition. The Ciaz has a quieter engine and a cleaner interior.
+Customer: That's good to hear. What about the resale value after three years?
+Salesperson: For assured vehicles, we offer a buy-back guarantee. For example, if you choose the Honda City, after one year, we will buy it back for Rs. 5,00,000, after two years for Rs. 4,32,000, and after three years for Rs. 4,00,000. This is subject to the vehicle not exceeding 10,000 kilometers per year and being serviced at authorized centers.
+Customer: That sounds fair. Can I take a test drive?
+Salesperson: Of course, sir. You can either come to our showroom or book a home test drive. The home test drive slots are available within one or two days.
+Customer: I live about five kilometers from here. Can we arrange a home test drive?
+Salesperson: Certainly, sir. I will book a slot for you. You will receive a confirmation shortly.
+Customer: Thank you. I appreciate your help.
+Salesperson: My pleasure, sir. If you have any other questions or need further assistance, feel free to contact us. Have a great day!
+Customer: Thank you. Goodbye.
+Salesperson: Goodbye, sir.

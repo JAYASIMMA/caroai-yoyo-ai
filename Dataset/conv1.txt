@@ -1,0 +1,51 @@
+Salesperson: We have a few options in terms of colors, sir. What color are you interested in? So far we've got only blue and white.  
+Customer: Okay, white is okay. No special preference, and what about the budget? How much can you offer for that? No details mentioned.  
+Salesperson: Yes, let me confirm. The starting price is around Rs. 10,50,000. That’s for the 2021 model, diesel SUV.  
+Customer: The car without any label? You remove the labels for the sold ones, or what?  
+Salesperson: Correct, sir. Sold cars don’t usually have labels on them.  
+Customer: Right, so my requirement is...  
+Salesperson: Sure, sir. What are you looking for?  
+Customer: I have a budget of about Rs. 800,000, and I'm really looking for something spacious and safe, safety first. Maybe a compact SUV, yes, compact SUV. And maybe like a Mahindra XUV or something similar.  
+Salesperson: I understand, sir. We can certainly find a suitable vehicle for that. What about fuel type?  
+Customer: No petrol, please. Diesel only.  
+Salesperson: Manual or automatic transmission preferences, sir?  
+Customer: I don’t, I don’t mind, whatever is best for my budget.  
+Salesperson: Okay, understood, sir. We have both options in our inventory. Regarding safety, our vehicles are well maintained and undergo a thorough checkup.  
+Customer: How do you ensure they are safe?  
+Salesperson: We conduct a comprehensive 200-point inspection before purchasing any vehicle. So, if you like it, it's definitely safe to purchase.  
+Customer: But how can I trust that it's always maintained well? There might be hidden problems.  
+Salesperson: No, sir, we get detailed service history of each vehicle. Plus, non-accidental, no meter tampering, and all that.  
+Customer: So what support do I get after I buy? I mean, like warranty?  
+Salesperson: Yes, of course. We offer a warranty on the engine and gearbox for one year or 15,000 kilometers. And a warranty on AC and electricals for three months or 5,000 kilometers.  
+Customer: Wait, so the warranty is just three months for that?  
+Salesperson: Correct, just three months, yes.  
+Customer: So if something goes wrong after three months?  
+Salesperson: We also have a five-day money-back guarantee. If you aren’t satisfied, you can return the car.  
+Customer: Within five days, like? But what about the registration?  
+Salesperson: The registration process only starts after five days, yes.  
+Customer: So, till then? What’s the process for ownership during that time?  
+Salesperson: You won't be the registered owner until we start the process.  
+Customer: Will I get a confirmation before that?  
+Salesperson: Yes, a confirmation will be sent once the process begins.  
+Customer: Great. So can you now, um, check if we have SUVs that fit my requirements?  
+Salesperson: Absolutely, let me find options in SUVs within that range.  
+Customer: I want to avoid small ones, you know? Like, the tiny models.  
+Salesperson: Sure, no hatchbacks then. So you prefer compact SUVs?  
+Customer: Yes, I don’t like hatchbacks at all. Something spacious. Like, what about, maybe, a Creta?  
+Salesperson: We actually have Creta available, let me check... Yes, it’s a 2019 model with good history.  
+Customer: How much does the Creta cost?  
+Salesperson: It’s priced around Rs. 9,50,000. Just over your budget a bit.  
+Customer: If I need to go lower, what do you suggest?  
+Salesperson: We can look at vehicles from 2017. Mileage would be higher, but still in decent condition.  
+Customer: Okay, okay, if I wanted to consider really low mileage, would that be within budget?  
+Salesperson: Yes, slightly older models could potentially fit within your budget, sir.  
+Customer: Like, uh, if the mileage is higher, does that affect the resale value later on?  
+Salesperson: Definitely, mileage can impact the resale value.  
+Customer: Okay, I see. So what's the driveable life of these models?  
+Salesperson: You can expect around 2 lakh kilometers if maintained well.  
+Customer: Okay. What about test drives? Can I take one?  
+Salesperson: You have to, please, come into the showroom for a test drive, or we can organize a home test drive for you.  
+Customer: Okay, I may want a home test drive, but when can I schedule that?  
+Salesperson: Availability varies, may take a couple of days. But we can arrange soon.  
+Customer: Okay then. Thanks for your help!  
+Salesperson: My pleasure, sir

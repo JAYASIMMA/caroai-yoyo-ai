@@ -1,0 +1,173 @@
+```
+Salesperson: Hello sir, welcome to YoCars Park. How can I assist you today?
+
+Customer: I'm not sure yet.
+
+Salesperson: No problem. Are you looking to shift to a new vehicle? May I have your contact number to keep you updated with our latest offers?
+
+Customer: Sure, it's 99******90.
+
+Salesperson: Great, thank you. Have you visited YoCars Park before?
+
+Customer: Yes, I have.
+
+Salesperson: Did you encounter any issues during your visit?
+
+Customer: Yes, I had some concerns about the processing fees and other charges.
+
+Salesperson: I understand. The processing fees are typically covered by the bank. Are you in need of some cash for the purchase?
+
+Customer: Yes, that would be helpful.
+
+Salesperson: Give me 5 minutes to arrange everything. I'll bring the car around for you to see.
+
+Customer: Okay.
+
+Salesperson: By the way, what's the main issue you're facing?
+
+Customer: I'm from Delhi, and I'm worried about the paperwork and additional costs.
+
+Salesperson: Don't worry. We handle all the paperwork, including RC transfer and any other necessary documents. The company covers these costs, so you won't have to pay extra. We ensure everything is included in the price.
+
+Customer: That sounds good, but I'm still concerned about the price. It seems a bit expensive.
+
+Salesperson: I understand your concern. Our prices are fixed, but they include all the features and services we offer. This means no hidden costs or additional charges later on. You're getting a comprehensive package.
+
+Salesperson: If the papers are proper, we can't come here with other vehicles. If there's a problem with NOCL, we can't sell the vehicle. We've included all that in the price. There's no need to charge more. It's just that it's a bit late to get the RC. You need to buy the alternative documents. No one will create any problem for you. You've given us a delivery note. We've purchased it from YoCars. We're waiting for the RC card. If you show it to us, you won't be in any trouble.
+
+Salesperson: If there's a chance, you can see this.
+
+Customer: This?
+
+Salesperson: Yes. Wait a minute. What did you say, sir? Did you reduce it?
+
+Customer: No.
+
+Salesperson: You won't get anything in YoCars. You can keep it as a backup vehicle. We don't sell it as a meter tamper.
+
+Customer: Is that company selling it as a meter tamper? What's there for the customer? Is it a meter tamper that doesn't come to YoCars?
+
+Salesperson: It's one lakh per year. In one year, there are vehicles that run 80,000 miles. In 10 years, there are vehicles that run 20,000 or 30,000 miles. But all the customers have kept it as a backup vehicle. It's an extra vehicle. It's not at home. That's why they keep it like that. In case you have any doubt, go and check with the mechanic.
+
+Customer: There's no system. There's no music system. These are all after-market customer accessories. If there are power windows, they won't come in. They're customer accessories. You'll get four power windows.
+
+Salesperson: Is that so?
+
+Customer: Yes. It's an accessory. The AC is working. Every component is working in the car.
+
+Salesperson: I'll take some time. It's getting hot.
+
+Customer: It's so hot. The glass is locked. It's switched off.
+
+Salesperson: Look at the cloths on top. It's switched off?
+
+Customer: Yes. It's glass locked. This is the AC. You can see it, right?
+
+Salesperson: Yes. 32,886 kilometers. The AC is there. There's no music or system. The seat-wise, everything is okay. Look at the budget. Come here, sir. This is the AC. It's fast. Look.
+
+Customer: It's fast.
+
+Salesperson: There is no music system in this car. Power window, power auto, is there a central lock?
+
+Customer: Yes, there is.
+
+Salesperson: Central lock?
+
+Customer: Yes, there is a key lock. Central lock is there.
+
+Salesperson: Ok, try to open the door.
+
+Customer: Ok, done. Let's go this way.
+
+Salesperson: If you want to take a customer, you have to take a bike.
+
+Customer: Customer?
+
+Salesperson: Yes. If you want to take a direct party, you have to take a car. This is a 2010 car. Shift. How much is it?
+
+Customer: This is a 2010 car. Shift. How much?
+
+Salesperson: Single owner. It has been sold for 9 lakhs.
+
+Customer: What?
+
+Salesperson: Nothing has happened sir, the cars have been sold for lakhs.
+
+Customer: Nothing has happened?
+
+Salesperson: But, you have to change the spare parts.
+
+Customer: I can change the spare parts of any car. You will have to go to the timing belt and change the spare parts.
+
+Salesperson: Sir, please wait for 10 minutes.
+
+Customer: I am driving.
+
+Salesperson: Ok. Why are you standing there? Will you park there?
+
+Customer: I will park.
+
+Salesperson: It is difficult to understand.
+
+Customer: I will park. If you have any doubt, you can check the car with the mechanic. You can take it after he says ok. Many people are watching the car. Because the price has come down. Many people are watching. You have to make some decisions. The color is not too dim. The color is nice.
+
+Customer: Sir, you have to repaint it.
+
+Salesperson: What should I do?
+
+Customer: That's it.
+
+Salesperson: Ok. What do we have in this car?
+
+Customer: Oh, sir. Sir, is there any other car?
+
+Salesperson: Sir, you have to pay Rs. 3,000,000. This is a cheap car. All the vehicles here are expensive.
+
+Customer: Is it?
+
+Salesperson: Yes. That's why the vehicle has to be neat. For the price given, the vehicle has to be neat.
+
+Customer: Sir, can you talk?
+
+Salesperson: Yes, sir. Turn the volume up.
+
+Customer: How is your car in condition?
+
+Salesperson: Sir, it is in condition. It is in mint condition.
+
+Customer: In case of you purchasing a YoCars...
+
+Salesperson: Sir, you say Rs. 3,000?
+
+Customer: Rs. 32,000. All the glass are new.
+
+Salesperson: Is this genuine?
+
+Customer: Yes sir, these are new headlamps. 4 power windows. The customer has fitted central locking. Lock and unlock. See, they have done all this. In this variant, 4 power windows are not available, but customers have fitted 4 power windows. They have spent money to fit 4 power windows from YoCars.
+
+Salesperson: If you have warranty for engine and gearbox, 1 year warranty is there for AC, electronics, fuel system, sensors. 3 months or 5000 kms warranty is there. In case you need more warranty, are tires in good condition?
+
+Customer: Tires are recently changed, around 70%. If you are using it for family, you can use it for 2 more years. If you are using it for family, for commercial purpose, you can use it for 2 more years.
+
+Salesperson: Stepney, is this stepney? Service card?
+
+Customer: Service is not available. This is 2010. Service is not available. Tell me, if you come tomorrow, you can take it. Tools, reflector, jack?
+
+Salesperson: Yes.
+
+Customer: Speakers?
+
+Salesperson: Inbuilt. You have speakers but no infotainment.
+
+Customer: Yes, speakers are already inbuilt. We have kept it. Speakers are already in the car. You can purchase infotainment box.
+
+Salesperson: Tomorrow the vehicle will be sold out.
+
+Customer: Yes. Take your contact number. I will call you.
+
+Salesperson: No one will give. It is online. There is an online book. 7090343919.
+
+Customer: Ok.
+
+Salesperson: Ok sir, thank you.
+```

@@ -1,0 +1,153 @@
+**Salesperson:** Good afternoon, sir. Can I offer you a cup of coffee?
+
+**Customer:** Anything without sugar, please.
+
+**Salesperson:** Coffee will be okay, right, sir?
+
+**Customer:** Yes, of course.
+
+**Salesperson:** You're particularly looking for a 7-seater only, right, sir?
+
+**Customer:** Yes.
+
+**Salesperson:** And do you prefer automatic or manual transmission, sir?
+
+**Customer:** Prefer manual.
+
+**Salesperson:** Fuel type, diesel or petrol?
+
+**Customer:** Diesel.
+
+**Salesperson:** These are all the 7-seater cars we have available, sir.
+
+**Customer:** Okay, the driver is also a 7-seater?
+
+**Salesperson:** Yes, sir. The Honda Mobilio is a 7-seater.
+
+**Customer:** I like the Mobilio you're mentioning.
+
+**Salesperson:** Unfortunately, it's already booked, sir.
+
+**Customer:** Not possible to get it?
+
+**Salesperson:** No, sir. Unless the existing customer cancels, it won't be available. I can check the status for you, sir.
+
+**Customer:** Please do.
+
+**Salesperson:** Sure. By the way, this package includes registration, RC transfer, and insurance. It's a fixed price, no negotiation.
+
+**Customer:** Is financing available?
+
+**Salesperson:** Yes, sir, it is.
+
+**Customer:** How much is the service cost for the car?
+
+**Salesperson:** Around 14,000.
+
+**Customer:** Is there any pending work on the car?
+
+**Salesperson:** All vehicles are serviced regularly.
+
+**Customer:** So, is there a chance of loan rejection?
+
+**Salesperson:** Yes, but we will know the exact status tomorrow. It depends on the cancellation or buyout.
+
+**Customer:** How much is the financial cost?
+
+**Salesperson:** It depends on the car and the financing terms.
+
+**Customer:** So, you're saying it's third-party financing?
+
+**Salesperson:** Yes, third-party finance options are available.
+
+**Customer:** How spacious is the seating?
+
+**Salesperson:** It's a 7-seater. You can sit and see for yourself.
+
+**Customer:** Is the vehicle here?
+
+**Salesperson:** Yes, please have a seat and check it out. The 7-seater is well-designed.
+
+**Customer:** What about the mileage?
+
+**Salesperson:** It will be around 15 to 19 km/l in the city.
+
+**Customer:** Fixed price?
+
+**Salesperson:** Yes, fixed price.
+
+**Customer:** How can I notify you?
+
+**Salesperson:** Just give me your number, and I'll keep you updated.
+
+**Customer:** Is this the car?
+
+**Salesperson:** Yes, sir. Please wait for 5 minutes; the car will be brought here.
+
+**Salesperson:** Here it is, sir. It's a 2014 model, driven 55,000 km. It's the top variant.
+
+**Customer:** What's the mileage of this car?
+
+**Salesperson:** Its mileage is around 12-13 km/l.
+
+**Customer:** 12-13 km/l?
+
+**Salesperson:** Yes, sir. It has a 1.4-litre engine.
+
+**Customer:** What about this?
+
+**Salesperson:** Yes, it's AT Gas.
+
+**Customer:** Why does it show 211?
+
+**Salesperson:** That's in the city. It can change depending on traffic conditions.
+
+**Customer:** Has it been in an accident?
+
+**Salesperson:** No, it's a non-accidental vehicle.
+
+**Customer:** Do you have the service reports?
+
+**Salesperson:** Yes, we have all the service reports. All vehicles are in good service condition.
+
+**Customer:** When was it last serviced?
+
+**Salesperson:** It was serviced by us 10-15 days ago.
+
+**Customer:** What's the price?
+
+**Salesperson:** 20,000.
+
+**Customer:** What's your name?
+
+**Salesperson:** Nirup.
+
+**Customer:** I'll call you.
+
+**Salesperson:** I'm Ajat. I'll inform the team today.
+
+**Customer:** Please do this quickly.
+
+**Salesperson:** Yes, sir.
+
+**Customer:** Is it a first-owner or second-owner car?
+
+**Salesperson:** Second owner, sir.
+
+**Customer:** Is it adjustable?
+
+**Salesperson:** Yes, sir, it is adjustable.
+
+**Customer:** This is the bucket seat, right? Let me sit and see.
+
+**Customer:** Wait, I see some scratches on the paint. And the interior doesn't seem very clean.
+
+**Salesperson:** I apologize for that, sir. We can arrange for a thorough cleaning and touch-up on the paint job before delivery.
+
+**Customer:** Also, I hear some noise from the engine. Is that normal?
+
+**Salesperson:** We'll have our mechanic check it out immediately. If there's any issue, we'll fix it before you take the car.
+
+**Customer:** Alright, please ensure everything is in top condition.
+
+**Salesperson:** Absolutely, sir. We'll make sure the car is in perfect condition before you drive it home.

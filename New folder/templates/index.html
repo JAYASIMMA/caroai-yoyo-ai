@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Sales Conversation Analyzer</title>
+    <link rel="icon" href="favicon.jpeg" type="image/templates">
+
+    <style>
+        body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            overflow-x: hidden;
+        }
+        .container {
+            max-width: 700px;
+            margin: 50px auto;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #ffffff;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            animation: slideIn 1s ease-out;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .upload-btn, .visualize-btn, .stats-btn {
+            background-color: #0038a8;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin: 10px;
+            transition: background-color 0.3s;
+        }
+        .upload-btn:hover, .visualize-btn:hover, .stats-btn:hover {
+            background-color: #0038a8;
+            transform: scale(1.05);
+        }
+        .output {
+            margin-top: 20px;
+            text-align: left;
+            max-height: 400px;
+            overflow-y: auto;
+            background-color: #e8f5e9;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .visualization {
+            margin-top: 20px;
+            max-width: 100%;
+        }
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Car Sales Conversation Analyzer</h1>
+        <form id="uploadForm" enctype="multipart/form-data">
+            <h1>Upload Any Type of Document</h1>
+            <input type="file" class="upload-btn" name="file" accept=".txt, .pdf, .csv" required><br><br>
+            <button type="submit" class="upload-btn">Upload and Analyze</button>
+        </form>
+        
+        <form id="compareForm">
+            <input type="text" id="userPrice" name="price" placeholder="Enter user price" required>
+            <button type="button" class="upload-btn" onclick="compareData()">Compare Data</button>
+        </form>
+        
+        <button class="visualize-btn" onclick="fetchVisualization()">View Data Visualization</button>
+        <button class="stats-btn" onclick="fetchStatistics()">View Descriptive Statistics</button>
+        <button class="visualize-btn" onclick="fetchMostRequestedCars()">Most Requested Cars</button>
+        <button class="visualize-btn" onclick="fetchPriceRanges()">Popular Price Ranges</button>
+        <button class="visualize-btn" onclick="fetchPreferredCarTypes()">Preferred Car Types</button>
+        <button class="visualize-btn" onclick="fetchCommonObjections()">Common Objections</button>
+
+        <div class="output" id="output"></div>
+        <img id="visualization" class="visualization" src="" alt="Visualization will appear here" style="display: none;">
+    </div>
+
+    <script>
+        document.getElementById('uploadForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const formData = new FormData(this);
+
+            fetch('/', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('output').innerHTML = `<h3>Extracted Information:</h3><pre>${JSON.stringify(data.extracted_info, null, 2)}</pre>`;
+                document.getElementById('visualization').style.display = 'none';
+            })
+            .catch(error => {
+                document.getElementById('output').innerHTML = `<p style="color: red;">Error processing the file.</p>`;
+                console.error('Error:', error);
+            });
+        });
+
+        function fetchVisualization() {
+            fetch('/visualize')
+            .then(response => response.blob())
+            .then(blob => {
+                const url = URL.createObjectURL(blob);
+                const visualization = document.getElementById('visualization');
+                visualization.src = url;
+                visualization.style.display = 'block';
+                document.getElementById('output').innerHTML = '';
+            })
+            .catch(error => {
+                document.getElementById('output').innerHTML = `<p style="color: red;">Error fetching visualization.</p>`;
+                console.error('Error:', error);
+            });
+        }
+
+        function fetchStatistics() {
+            fetch('/statistics')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('output').innerHTML = `<h3>Descriptive Statistics:</h3><pre>${JSON.stringify(data, null, 2)}</pre>`;
+                document.getElementById('visualization').style.display = 'none';
+            })
+            .catch(error => {
+                document.getElementById('output').innerHTML = `<p style="color: red;">Error fetching statistics.</p>`;
+                console.error('Error:', error);
+            });
+        }
+
+        function compareData() {
+            const userPrice = document.getElementById('userPrice').value;
+
+            fetch('/compare', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ user_data: { price: userPrice } })
+            })
+            .then(response => response.blob())
+            .then(blob => {
+                const url = URL.createObjectURL(blob);
+                const visualization = document.getElementById('visualization');
+                visualization.src = url;
+                visualization.style.display = 'block';
+                document.getElementById('output').innerHTML = '';
+            })
+            .catch(error => {
+                document.getElementById('output').innerHTML = `<p style="color: red;">Error comparing data.</p>`;
+                console.error('Error:', error);
+            });
+        }
+
+        function fetchMostRequestedCars() {
+            fetch('/most-requested-cars')
+            .then(response => response.blob())
+            .then(blob => {
+                const url = URL.createObjectURL(blob);
+                const visualization = document.getElementById('visualization');
+                visualization.src = url;
+                visualization.style.display = 'block';
+                document.getElementById('output').innerHTML = '';
+            })
+            .catch(error => {
+                document.getElementById('output').innerHTML = `<p style="color: red;">Error fetching most requested cars.</p>`;
+                console.error('Error:', error);
+            });
+        }
+
+        function fetchPriceRanges() {
+            fetch('/price-ranges')
+            .then(response => response.blob())
+            .then(blob => {
+                const url = URL.createObjectURL(blob);
+                const visualization = document.getElementById('visualization');
+                visualization.src = url;
+                visualization.style.display = 'block';
+                document.getElementById('output').innerHTML = '';
+            })
+            .catch(error => {
+                document.getElementById('output').innerHTML = `<p style="color: red;">Error fetching price ranges.</p>`;
+                console.error('Error:', error);
+            });
+        }
+
+        function fetchPreferredCarTypes() {
+            fetch('/preferred-car-types')
+            .then(response => response.blob())
+            .then(blob => {
+                const url = URL.createObjectURL(blob);
+                const visualization = document.getElementById('visualization');
+                visualization.src = url;
+                visualization.style.display = 'block';
+                document.getElementById('output').innerHTML = '';
+            })
+            .catch(error => {
+                document.getElementById('output').innerHTML = `<p style="color: red;">Error fetching preferred car types.</p>`;
+                console.error('Error:', error);
+            });
+        }
+
+        function fetchCommonObjections() {
+            fetch('/common-objections')
+            .then(response => response.blob())
+            .then(blob => {
+                const url = URL.createObjectURL(blob);
+                const visualization = document.getElementById('visualization');
+                visualization.src = url;
+                visualization.style.display = 'block';
+                document.getElementById('output').innerHTML = '';
+            })
+            .catch(error => {
+                document.getElementById('output').innerHTML = `<p style="color: red;">Error fetching common objections.</p>`;
+                console.error('Error:', error);
+            });
+        }
+    </script>
+</body>
+</html>

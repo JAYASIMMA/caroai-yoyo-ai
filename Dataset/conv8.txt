@@ -1,0 +1,170 @@
+Salesperson: The price is 10.72 lakhs for the 2018 model with 41,000 km driven. It's a single owner, automatic car. The original price was 9.94 lakhs, but they mentioned a 1 lakh discount on the app.
+
+Customer: What about the features?
+
+Salesperson: It has 2 ventilators installed and an AC vent. Regarding the charging port, you can install one, but there is no wireless charger available. You would have to plug it in. If you want to install a wireless charger, it would be helpful if it's from the OEM. If it's from the outer market, it will come with a 3-month warranty.
+
+Customer: How much would that cost approximately?
+
+Salesperson: Approximately, it will be around 10,000 because you have to change the full setup.
+
+Customer: What about the shift lock release?
+
+Salesperson: The shift lock release is for safety in case of a peak or hill support.
+
+Customer: My brother has the same car.
+
+Salesperson: That's great! After taking a car deal, you will be getting a warranty for 1 year and a comprehensive warranty for 3 months. The 1 year or 12,000 km warranty covers the engine and gearbox.
+
+Customer: Is there an option for an extended warranty?
+
+Salesperson: There is no option for an extended warranty because we are already offering a 10% discount. The extended warranty depends on the car model.
+
+Customer: How does that work?
+
+Salesperson: For some models, it could be around 1 lakh for 2 years or 24,000 km, plus an additional 12 months for comprehensive electrical warranty.
+
+Customer: So, I would get an additional 12 months or 12,000 km?
+
+Salesperson: Yes, that's correct.
+
+Customer: What about the test drive?
+
+Salesperson: If you want to test drive, you can do it.
+
+Customer: I booked a test drive for the RDA3 on Thursday, but that's from Belandur.
+
+Salesperson: How much would it cost to deregister?
+
+Customer: Because that car is registered in Haryana, will I need to pay anything extra?
+
+Salesperson: No, the same price includes everything. You will need to pay for the RC transfer, but that will be included in the price.
+
+Customer: So, I will be paying new road tax for Karnataka registration?
+
+Salesperson: Yes, you will be paying the road tax, and then you will get it registered in Karnataka.
+
+Customer: How long will that take?
+
+Salesperson: It will take about 150 days for the Karnataka registration.
+
+Customer: So, I can start driving with the Haryana number in the meantime?
+
+Salesperson: Yes, the RC transfer will be in process, and it will take about 50 days to get the new number.
+
+Customer: So, the price listed in the application is the final price?
+
+Salesperson: Yes, that includes everything: registration for the Karnataka number, RC transfer, emission pass tax, and more.
+
+Customer: What about the service before delivery?
+
+Salesperson: The price includes one service before delivery, and the car is already serviced.
+
+Customer: Why is the vehicle not clean?
+
+Salesperson: It's in an open area, but we will clean it before delivery.
+
+Customer: I also noticed some scratches on the rear bumper. 
+
+Salesperson: I apologize for that. We will ensure that all scratches are taken care of before delivery. 
+
+Customer: Where do you stay?
+
+Salesperson: I stay in Whitefield.
+
+Customer: I wanted my wife to do a test drive.
+
+Salesperson: I can arrange a test drive for you.
+
+Customer: I paid 10,000 already for this car.
+
+Salesperson: I will arrange a test drive for you in Whitefield.
+
+Customer: I am okay to take this car or the RDA3.
+
+Salesperson: That's good to hear.
+
+Customer: Have you already blocked the test drive?
+
+Salesperson: I haven't blocked it yet, but if you can block it, it's well and good in case someone else gets it.
+
+Customer: I saw that, that's why I booked the 10,000.
+
+Salesperson: You can do a test drive for both cars, and then you can make your decision.
+
+Customer: Sir, can I have a contact number?
+
+Salesperson: Sure, it's 94******310.
+
+Salesperson: Thank you for your payment of 10,000. How many days will you hold this car?
+
+Customer: 3 days.
+
+Salesperson: Exactly, that's what is mentioned. We will hold it. You can block that car as well, so you can take a test drive on that day. You can test drive both cars and then make your decision. If you end up buying another car, that amount will be transferred here, or it will be transferred to the other car if you haven't tried it. The full amount is refundable.
+
+Customer: Okay, cool. Can you do this for me on Thursday? Can you bring this car for a test drive? I can give you my location.
+
+Salesperson: Sure, I can arrange that.
+
+Customer: I am happy to pay for even the test drive.
+
+Salesperson: That's what I told the customer. Someone called me and mentioned that we can only do a test drive for 25 kilometers.
+
+Customer: I asked for a home test drive because my wife can also be a part of it. I came from work, actually.
+
+Salesperson: No worries. How far is it from here to your home?
+
+Customer: Should be 32 kilometers.
+
+Salesperson: I will speak to my manager and arrange for a test drive. You don't need to pay anything extra. Just don't cancel the booking.
+
+Customer: I want my family to be there.
+
+Salesperson: If we take the other direction, it could be 37 kilometers, or 34 kilometers if it's the other route. Anything around will be below 40 kilometers.
+
+Customer: I will show you my number. You can just WhatsApp me the location.
+
+Salesperson: Sure, I will let you know what time it requires. Something like 6 to 7 would work.
+
+Customer: If that is the case, what time works for Thursday for you?
+
+Salesperson: Morning around 10 would be good. I will arrange it for you.
+
+Customer: 10 to 11 works for me.
+
+Salesperson: Perfect. I will manage it for 11 o'clock on Thursday morning.
+
+Customer: That's my number. I already received a call for a loan, actually. I told them I will wait for one or two days to do the test drive.
+
+Salesperson: No worries. Just don't cancel the booking, as I won't be able to arrange it later if you do.
+
+Customer: Got it.
+
+Salesperson: I will WhatsApp you the location now.
+
+Customer: I will also book the RD.
+
+Salesperson: Go ahead. You can check in the app.
+
+Customer: So many people have been interested.
+
+Salesperson: This is the biggest thing; we have opened recently, and all premium cars were parked here earlier.
+
+Customer: Okay, I texted you the location.
+
+Salesperson: I will arrange it for you. I will give you the confirmation by tomorrow.
+
+Customer: Perfect. Can you also do me a favor? Can you check the driver and the air light? Don't touch anything; it's completely brand new.
+
+Salesperson: I will check those things and share the inspection report as well.
+
+Customer: Thank you. I am going to leave it at that. I will not cancel.
+
+Salesperson: Tomorrow evening, I will arrange this for you.
+
+Customer: Thank you so much. If you receive any test drive feedback, please let me know.
+
+Salesperson: Thank you so much, sir. I will arrange a call for you. Good night.
+
+Customer: Bye.
+
