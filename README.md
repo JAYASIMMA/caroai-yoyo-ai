@@ -28,7 +28,7 @@ yoyo-car-ai/
 ├── .gitattributes          # Git configuration
 ├── README.md               # You're reading this!
 ├── pyenv.cfg               # Python virtual environment config
-├── requirements.txt.txt    # Dependency list (rename properly)
+├── requirements.txt.txt    # Dependency list
 
 ````
 
@@ -110,10 +110,3 @@ Developed by Jayasimma D
 This project is licensed under the MIT License.
 
 ```
-
----
-
-Would you like me to export this `README.md` into a downloadable file or also generate a sample `app.py` for the Flask interface?
-```
-
- 
